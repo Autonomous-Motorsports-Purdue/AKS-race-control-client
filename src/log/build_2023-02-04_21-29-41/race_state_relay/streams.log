@@ -1,0 +1,37 @@
+[0.890s] Invoking command in '/home/berliernj/AMP_MQTT/ros2_rcs/src/race_state_relay': PYTHONPATH=/home/berliernj/AMP_MQTT/ros2_rcs/src/build/race_state_relay/prefix_override:/home/berliernj/AMP_MQTT/ros2_rcs/src/install/race_state_relay/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/race_state_relay build --build-base /home/berliernj/AMP_MQTT/ros2_rcs/src/build/race_state_relay/build install --record /home/berliernj/AMP_MQTT/ros2_rcs/src/build/race_state_relay/install.log --install-scripts $base/lib/race_state_relay --single-version-externally-managed
+[1.184s] running egg_info
+[1.184s] creating ../build/race_state_relay/race_state_relay.egg-info
+[1.185s] writing ../build/race_state_relay/race_state_relay.egg-info/PKG-INFO
+[1.185s] writing dependency_links to ../build/race_state_relay/race_state_relay.egg-info/dependency_links.txt
+[1.185s] writing entry points to ../build/race_state_relay/race_state_relay.egg-info/entry_points.txt
+[1.186s] writing requirements to ../build/race_state_relay/race_state_relay.egg-info/requires.txt
+[1.186s] writing top-level names to ../build/race_state_relay/race_state_relay.egg-info/top_level.txt
+[1.188s] writing manifest file '../build/race_state_relay/race_state_relay.egg-info/SOURCES.txt'
+[1.233s] reading manifest file '../build/race_state_relay/race_state_relay.egg-info/SOURCES.txt'
+[1.234s] writing manifest file '../build/race_state_relay/race_state_relay.egg-info/SOURCES.txt'
+[1.235s] running build
+[1.235s] running build_py
+[1.235s] creating /home/berliernj/AMP_MQTT/ros2_rcs/src/build/race_state_relay/build
+[1.235s] creating /home/berliernj/AMP_MQTT/ros2_rcs/src/build/race_state_relay/build/lib
+[1.235s] creating /home/berliernj/AMP_MQTT/ros2_rcs/src/build/race_state_relay/build/lib/race_state_relay
+[1.236s] copying race_state_relay/rs_relay.py -> /home/berliernj/AMP_MQTT/ros2_rcs/src/build/race_state_relay/build/lib/race_state_relay
+[1.236s] copying race_state_relay/__init__.py -> /home/berliernj/AMP_MQTT/ros2_rcs/src/build/race_state_relay/build/lib/race_state_relay
+[1.236s] running install
+[1.237s] running install_lib
+[1.238s] creating /home/berliernj/AMP_MQTT/ros2_rcs/src/install/race_state_relay/lib/python3.8/site-packages/race_state_relay
+[1.239s] copying /home/berliernj/AMP_MQTT/ros2_rcs/src/build/race_state_relay/build/lib/race_state_relay/rs_relay.py -> /home/berliernj/AMP_MQTT/ros2_rcs/src/install/race_state_relay/lib/python3.8/site-packages/race_state_relay
+[1.239s] copying /home/berliernj/AMP_MQTT/ros2_rcs/src/build/race_state_relay/build/lib/race_state_relay/__init__.py -> /home/berliernj/AMP_MQTT/ros2_rcs/src/install/race_state_relay/lib/python3.8/site-packages/race_state_relay
+[1.239s] byte-compiling /home/berliernj/AMP_MQTT/ros2_rcs/src/install/race_state_relay/lib/python3.8/site-packages/race_state_relay/rs_relay.py to rs_relay.cpython-38.pyc
+[1.241s] byte-compiling /home/berliernj/AMP_MQTT/ros2_rcs/src/install/race_state_relay/lib/python3.8/site-packages/race_state_relay/__init__.py to __init__.cpython-38.pyc
+[1.241s] running install_data
+[1.242s] creating /home/berliernj/AMP_MQTT/ros2_rcs/src/install/race_state_relay/share/ament_index
+[1.242s] creating /home/berliernj/AMP_MQTT/ros2_rcs/src/install/race_state_relay/share/ament_index/resource_index
+[1.242s] creating /home/berliernj/AMP_MQTT/ros2_rcs/src/install/race_state_relay/share/ament_index/resource_index/packages
+[1.242s] copying resource/race_state_relay -> /home/berliernj/AMP_MQTT/ros2_rcs/src/install/race_state_relay/share/ament_index/resource_index/packages
+[1.243s] copying package.xml -> /home/berliernj/AMP_MQTT/ros2_rcs/src/install/race_state_relay/share/race_state_relay
+[1.243s] running install_egg_info
+[1.245s] Copying ../build/race_state_relay/race_state_relay.egg-info to /home/berliernj/AMP_MQTT/ros2_rcs/src/install/race_state_relay/lib/python3.8/site-packages/race_state_relay-0.0.0-py3.8.egg-info
+[1.246s] running install_scripts
+[1.273s] Installing rs_relay script to /home/berliernj/AMP_MQTT/ros2_rcs/src/install/race_state_relay/lib/race_state_relay
+[1.273s] writing list of installed files to '/home/berliernj/AMP_MQTT/ros2_rcs/src/build/race_state_relay/install.log'
+[1.304s] Invoked command in '/home/berliernj/AMP_MQTT/ros2_rcs/src/race_state_relay' returned '0': PYTHONPATH=/home/berliernj/AMP_MQTT/ros2_rcs/src/build/race_state_relay/prefix_override:/home/berliernj/AMP_MQTT/ros2_rcs/src/install/race_state_relay/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/race_state_relay build --build-base /home/berliernj/AMP_MQTT/ros2_rcs/src/build/race_state_relay/build install --record /home/berliernj/AMP_MQTT/ros2_rcs/src/build/race_state_relay/install.log --install-scripts $base/lib/race_state_relay --single-version-externally-managed

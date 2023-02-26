@@ -1,0 +1,3 @@
+[console_scripts]
+rs_relay = race_state_relay.rs_relay:main
+

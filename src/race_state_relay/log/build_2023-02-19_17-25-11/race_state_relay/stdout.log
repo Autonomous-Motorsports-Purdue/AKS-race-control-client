@@ -1,0 +1,22 @@
+running egg_info
+writing build/race_state_relay/race_state_relay.egg-info/PKG-INFO
+writing dependency_links to build/race_state_relay/race_state_relay.egg-info/dependency_links.txt
+writing entry points to build/race_state_relay/race_state_relay.egg-info/entry_points.txt
+writing requirements to build/race_state_relay/race_state_relay.egg-info/requires.txt
+writing top-level names to build/race_state_relay/race_state_relay.egg-info/top_level.txt
+reading manifest file 'build/race_state_relay/race_state_relay.egg-info/SOURCES.txt'
+writing manifest file 'build/race_state_relay/race_state_relay.egg-info/SOURCES.txt'
+running build
+running build_py
+copying race_state_relay/RS_relay.py -> /home/berliernj/AMP_MQTT/ros2_rcs/src/race_state_relay/build/race_state_relay/build/lib/race_state_relay
+running install
+running install_lib
+copying /home/berliernj/AMP_MQTT/ros2_rcs/src/race_state_relay/build/race_state_relay/build/lib/race_state_relay/RS_relay.py -> /home/berliernj/AMP_MQTT/ros2_rcs/src/race_state_relay/install/race_state_relay/lib/python3.8/site-packages/race_state_relay
+byte-compiling /home/berliernj/AMP_MQTT/ros2_rcs/src/race_state_relay/install/race_state_relay/lib/python3.8/site-packages/race_state_relay/RS_relay.py to RS_relay.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/berliernj/AMP_MQTT/ros2_rcs/src/race_state_relay/install/race_state_relay/lib/python3.8/site-packages/race_state_relay-0.0.0-py3.8.egg-info' (and everything under it)
+Copying build/race_state_relay/race_state_relay.egg-info to /home/berliernj/AMP_MQTT/ros2_rcs/src/race_state_relay/install/race_state_relay/lib/python3.8/site-packages/race_state_relay-0.0.0-py3.8.egg-info
+running install_scripts
+Installing RS_relay script to /home/berliernj/AMP_MQTT/ros2_rcs/src/race_state_relay/install/race_state_relay/lib/race_state_relay
+writing list of installed files to '/home/berliernj/AMP_MQTT/ros2_rcs/src/race_state_relay/build/race_state_relay/install.log'

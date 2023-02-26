@@ -1,0 +1,5 @@
+  File "/home/berliernj/AMP_MQTT/ros2_rcs/install/race_state_relay/lib/python3.8/site-packages/race_state_relay/RS_relay.py", line 21
+    ('mqtt_host': "127.0.0.1"),                     # ADDRESS TO MQTT BROKER
+                ^
+SyntaxError: invalid syntax
+

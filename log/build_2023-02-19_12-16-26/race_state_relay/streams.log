@@ -1,0 +1,29 @@
+[1.100s] Invoking command in '/home/berliernj/AMP_MQTT/ros2_rcs/src/race_state_relay': PYTHONPATH=/home/berliernj/AMP_MQTT/ros2_rcs/build/race_state_relay/prefix_override:/home/berliernj/AMP_MQTT/ros2_rcs/install/race_state_relay/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/race_state_relay build --build-base /home/berliernj/AMP_MQTT/ros2_rcs/build/race_state_relay/build install --record /home/berliernj/AMP_MQTT/ros2_rcs/build/race_state_relay/install.log --install-scripts $base/lib/race_state_relay --single-version-externally-managed
+[1.419s] running egg_info
+[1.420s] writing ../../build/race_state_relay/race_state_relay.egg-info/PKG-INFO
+[1.421s] writing dependency_links to ../../build/race_state_relay/race_state_relay.egg-info/dependency_links.txt
+[1.422s] writing entry points to ../../build/race_state_relay/race_state_relay.egg-info/entry_points.txt
+[1.422s] writing requirements to ../../build/race_state_relay/race_state_relay.egg-info/requires.txt
+[1.422s] writing top-level names to ../../build/race_state_relay/race_state_relay.egg-info/top_level.txt
+[1.490s] reading manifest file '../../build/race_state_relay/race_state_relay.egg-info/SOURCES.txt'
+[1.492s] writing manifest file '../../build/race_state_relay/race_state_relay.egg-info/SOURCES.txt'
+[1.492s] running build
+[1.492s] running build_py
+[1.493s] copying race_state_relay/RS_relay.py -> /home/berliernj/AMP_MQTT/ros2_rcs/build/race_state_relay/build/lib/race_state_relay
+[1.494s] running install
+[1.495s] running install_lib
+[1.496s] copying /home/berliernj/AMP_MQTT/ros2_rcs/build/race_state_relay/build/lib/race_state_relay/RS_relay.py -> /home/berliernj/AMP_MQTT/ros2_rcs/install/race_state_relay/lib/python3.8/site-packages/race_state_relay
+[1.497s] byte-compiling /home/berliernj/AMP_MQTT/ros2_rcs/install/race_state_relay/lib/python3.8/site-packages/race_state_relay/RS_relay.py to RS_relay.cpython-38.pyc
+[1.499s]   File "/home/berliernj/AMP_MQTT/ros2_rcs/install/race_state_relay/lib/python3.8/site-packages/race_state_relay/RS_relay.py", line 21
+[1.499s]     ('mqtt_host': "127.0.0.1"),                     # ADDRESS TO MQTT BROKER
+[1.499s]                 ^
+[1.499s] SyntaxError: invalid syntax
+[1.500s] 
+[1.500s] running install_data
+[1.501s] running install_egg_info
+[1.503s] removing '/home/berliernj/AMP_MQTT/ros2_rcs/install/race_state_relay/lib/python3.8/site-packages/race_state_relay-0.0.0-py3.8.egg-info' (and everything under it)
+[1.503s] Copying ../../build/race_state_relay/race_state_relay.egg-info to /home/berliernj/AMP_MQTT/ros2_rcs/install/race_state_relay/lib/python3.8/site-packages/race_state_relay-0.0.0-py3.8.egg-info
+[1.505s] running install_scripts
+[1.526s] Installing RS_relay script to /home/berliernj/AMP_MQTT/ros2_rcs/install/race_state_relay/lib/race_state_relay
+[1.527s] writing list of installed files to '/home/berliernj/AMP_MQTT/ros2_rcs/build/race_state_relay/install.log'
+[1.559s] Invoked command in '/home/berliernj/AMP_MQTT/ros2_rcs/src/race_state_relay' returned '0': PYTHONPATH=/home/berliernj/AMP_MQTT/ros2_rcs/build/race_state_relay/prefix_override:/home/berliernj/AMP_MQTT/ros2_rcs/install/race_state_relay/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/race_state_relay build --build-base /home/berliernj/AMP_MQTT/ros2_rcs/build/race_state_relay/build install --record /home/berliernj/AMP_MQTT/ros2_rcs/build/race_state_relay/install.log --install-scripts $base/lib/race_state_relay --single-version-externally-managed
